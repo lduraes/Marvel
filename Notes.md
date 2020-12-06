@@ -1,10 +1,10 @@
-<h2>Basecone
+<h2>Marvel
   <img src="https://github.com/lduraes/images/blob/master/marvel-notes.png?raw=true"
        align="right" width="64" height="64" />
 </h2>
 
 
-This project is a coding challenge for Basecone company using Marvel's API.
+This project list a few characters of Marvel's API.
 
 Stack used:
 
@@ -31,10 +31,10 @@ Stack used:
 
 ## ✨ Key features
 
-Following Cocoapods-Keys will be required during the installation of cocoapods:
+Following Cocoapods-Keys will be required during the installation of cocoapods. Please consider having them before running this project.
 
-* MarvelAPIPublicKey: _9eda64e9805ccecae0c6ea2cf9014825_ 
-* MarvelAPIPrivateKey: _c24f44aab42e1cd0691fb8b7b1a5e874cd19805a_
+* MarvelAPIPublicKey
+* MarvelAPIPrivateKey
 
 Should you require any further information or doubt clarifying about the installation, please drop me a [message](mailto:lduraes@gmail.com?subject=[Marvel]%20Doubt).
 

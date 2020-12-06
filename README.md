@@ -1,7 +1,3 @@
-# Basecone iOS Coding Challenge
-
-This challenge is to give us an idea about your coding skills.
-
 ## Goal
 
 Build something people would love to use, using your preferred style of code and with the aim of something that you would love to pick up and work on in the future.
