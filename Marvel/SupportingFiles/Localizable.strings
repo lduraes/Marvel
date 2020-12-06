@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Marvel
+
+  Created by Luiz Durães on 02/09/2020.
+  Copyright © 2020 Luiz Durães. All rights reserved.
+*/
+
+"loading" = "Loading...";
+"defaultAlertTitle" = "Alert";
+"navigationAlertMessage" = "Do you really want to see further information about this character?";
+"navigationFirstActionTitle" = "Website";
+"navigationSecondActionTitle" = "Wiki";
+"navigationCancelActionTitle" = "Cancel";
+"ok" = "OK";

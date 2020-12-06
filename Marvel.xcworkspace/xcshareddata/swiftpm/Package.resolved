@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Router",
+        "repositoryURL": "https://github.com/freshOS/Router",
+        "state": {
+          "branch": null,
+          "revision": "2e9630986637f2911e32a6748d63e5c10ea93fe4",
+          "version": "1.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
