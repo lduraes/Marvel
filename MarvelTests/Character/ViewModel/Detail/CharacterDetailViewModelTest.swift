@@ -23,10 +23,10 @@ class CharacterDetailViewModelTest: XCTestCase {
     }
     
     override func tearDown() {
-        super.tearDown()
         delegate = nil
         provider = nil
         viewModel = nil
+        super.tearDown()
     }
     
     func testShouldFetchCharacterDetailSuccessfully() {

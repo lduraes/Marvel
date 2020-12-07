@@ -9,7 +9,7 @@
 import Foundation
 @testable import Marvel
 
-class MockCharacter: Decodable {
+final class MockCharacter: Decodable {
     // MARK: - Public methods
     func getMarvelMock() throws -> Marvel {
         guard let filePath = Bundle(for: type(of: self)).path(forResource: "marvel-partial", ofType: "json") else { fatalError("marvel-partial.json not found") }

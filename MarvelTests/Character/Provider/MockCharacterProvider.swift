@@ -10,7 +10,7 @@ import Foundation
 
 @testable import Marvel
 
-class MockCharacterProvider: CharacterProviderDelegate {
+final class MockCharacterProvider: CharacterProviderDelegate {
     // MARK: - Properties
     private let mockCharacter = MockCharacter()
     var simulateError = false
